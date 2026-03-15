@@ -6,6 +6,15 @@ This project demonstrates how review data can be collected, standardized, enrich
 
 ⚠️ All brand names, programs, factories, and datasets are anonymized for confidentiality and portfolio demonstration.
 
+<table>
+  <tr>
+    <td>
+      <img src="image.png" alt="Cost & Commercial" width="500"/>
+    </td>
+  </tr>
+</table>
+
+[![View Dashboard](https://img.shields.io/badge/PowerBI-Dashboard-blue?logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiN2VlNWYzMGYtYTE5NC00ODEyLWFkZjMtMGQzYzRjNzZjOTkyIiwidCI6Ijg2NDU3OWM1LWVjMjctNDAzYi1hMjAwLWFhNjViYmEwMTIyMyIsImMiOjEwfQ%3D%3D)
 ---
 
 # Project Vision
